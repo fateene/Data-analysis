@@ -1,4 +1,3 @@
-# Data-analysis
 # Student Absenteeism Management
 # # Project Overview
 During the COVID-19 pandemic, our university adopted e-learning. In my second year of engineering, our professor tasked us with developing a real-time dashboard to monitor student attendance in online classes. The goal was to track key KPIs such as:
